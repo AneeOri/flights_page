@@ -6,8 +6,8 @@ export default function Home(){
     return(
         <div className='main_container'>
             <div>
-              <nav >
-                <ul className='nav_container'>
+              <nav className='nav_container'>
+                <ul>
                     <div className='nav_option'>
                       <IconHomeInfinity className='nav_img'/>
                       <li>Alojamientos</li>
